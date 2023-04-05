@@ -16,7 +16,6 @@ from pyspark.sql import functions as F
 from pyspark.sql.types import StringType, BooleanType, DateType, IntegerType, DoubleType, FloatType
 from pyspark.sql import SparkSession
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
-
 from pyspark.sql.functions import format_number as fmt
 from pyspark.sql.functions import udf
 from pyspark.sql.types import *
