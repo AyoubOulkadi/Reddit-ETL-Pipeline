@@ -36,7 +36,7 @@ Overall, this project demonstrates how to build a scalable data pipeline that co
 <h3> Data preprocessing and sentiment analysis in AWS Glue </h3>
 <a href="https://www.imgur.com"><img src="https://i.imgur.com/F5g0ctA.jpg" alt="Alt Text" title="Click to enlarge" width="800" height="400" /></a>
 
-<a href="https://www.imgur.com"><img src="https://i.imgur.com/F5g0ctA.jpg" alt="Alt Text" title="Click to enlarge" width="800" height="400" /></a>
+<a href="https://www.imgur.com"><img src="https://i.imgur.com/WpH6QJ6.jpg" alt="Alt Text" title="Click to enlarge" width="800" height="400" /></a>
 
 
 
