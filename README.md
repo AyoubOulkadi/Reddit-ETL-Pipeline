@@ -38,6 +38,18 @@ Overall, this project demonstrates how to build a scalable data pipeline that co
 
 <a href="https://www.imgur.com"><img src="https://i.imgur.com/WpH6QJ6.jpg" alt="Alt Text" title="Click to enlarge" width="800" height="400" /></a>
 
+<h3> The data cleaned and preprocessed in s3 bucket </h3>
+<a href="https://www.imgur.com"><img src="https://i.imgur.com/v0xAy5j.jpg" alt="Alt Text" title="Click to enlarge" width="800" height="400" /></a>
+
+<h3> Now we will send the cleaned data into AWS Redshift for Data Warehouse </h3> 
+<a href="https://www.imgur.com"><img src="https://i.imgur.com/3DGxCMy.jpg" alt="Alt Text" title="Click to enlarge" width="800" height="400" /></a> 
+
+<h3> Now we will check kafka and zookeeper connection in order to run the producer for real time data </h3> 
+
+<a href="https://www.imgur.com"><img src="https://i.imgur.com/UPY7qfZ.jpg" alt="Alt Text" title="Click to enlarge" width="800" height="400" /></a> 
+<a href="https://www.imgur.com"><img src="https://i.imgur.com/yZheBWD.jpg" alt="Alt Text" title="Click to enlarge" width="800" height="400" /></a> 
+<a href="https://www.imgur.com"><img src="https://i.imgur.com/3oUJe9x.jpg" alt="Alt Text" title="Click to enlarge" width="800" height="400" /></a> 
+
 
 
 
