@@ -30,7 +30,7 @@ Overall, this project demonstrates how to build a scalable data pipeline that co
 
 <h3> Data ingestion into S3 Bucket </h3>
 <a href="https://www.imgur.com"><img src="https://i.imgur.com/nCcJVuf.jpg" alt="Alt Text" title="Click to enlarge" width="800" height="400" /></a>
-<a href="https://www.imgur.com"><img src="https://i.imgur.com/GU0qYWV.jpg" alt="Alt Text" title="Click to enlarge" width="700" height="100" /></a>
+<a href="https://www.imgur.com"><img src="https://i.imgur.com/GU0qYWV.jpg" alt="Alt Text" title="Click to enlarge" width="500" height="100" /></a>
 
 
 <h3> Data preprocessing and sentiment analysis in AWS Glue </h3>
