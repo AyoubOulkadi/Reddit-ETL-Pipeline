@@ -30,7 +30,7 @@ Overall, this project demonstrates how to build a scalable data pipeline that co
 
 <h3> Data ingestion into S3 Bucket </h3>
 <a href="https://www.imgur.com"><img src="https://i.imgur.com/nCcJVuf.jpg" alt="Alt Text" title="Click to enlarge" width="800" height="400" /></a>
-<a href="https://www.imgur.com"><img src="https://i.imgur.com/GU0qYWV.jpg" alt="Alt Text" title="Click to enlarge" width="800" height="400" /></a>
+<a href="https://www.imgur.com"><img src="https://i.imgur.com/GU0qYWV.jpg" alt="Alt Text" title="Click to enlarge" width="700" height="100" /></a>
 
 
 <h3> Data preprocessing and sentiment analysis in AWS Glue </h3>
@@ -46,7 +46,7 @@ Overall, this project demonstrates how to build a scalable data pipeline that co
 
 <h3> Now we will check kafka and zookeeper connection in order to run the producer for real time data </h3> 
 
-<a href="https://www.imgur.com"><img src="https://i.imgur.com/UPY7qfZ.jpg" alt="Alt Text" title="Click to enlarge" width="800" height="400" /></a> 
+<a href="https://www.imgur.com"><img src="https://i.imgur.com/UPY7qfZ.jpg" alt="Alt Text" title="Click to enlarge" width="700" height="100" /></a> 
 <a href="https://www.imgur.com"><img src="https://i.imgur.com/yZheBWD.jpg" alt="Alt Text" title="Click to enlarge" width="800" height="400" /></a> 
 <a href="https://www.imgur.com"><img src="https://i.imgur.com/3oUJe9x.jpg" alt="Alt Text" title="Click to enlarge" width="800" height="400" /></a> 
 
